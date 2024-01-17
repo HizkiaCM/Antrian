@@ -1,0 +1,19 @@
+body {
+  font-family: Raleway, sans-serif;
+  background-color: #f6f8fd;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+.container{
+    margin: 20px;
+}
+
+.row {
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
